@@ -40,39 +40,39 @@
  /*--------------------*/
  @font-face {
   font-family: Montserrat-Light; /* Гарнитура шрифта */
-  src: url(../fonts/Montserrat/Montserrat-Light.ttf); /* Путь к файлу со шрифтом */
+  src: url(/fonts/Montserrat/Montserrat-Light.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
   font-family: Montserrat-Regular; /* Гарнитура шрифта */
-  src: url(../fonts/Montserrat/Montserrat-Regular.ttf); /* Путь к файлу со шрифтом */
+  src: url(/fonts/Montserrat/Montserrat-Regular.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
   font-family: Montserrat-SemiBold; /* Гарнитура шрифта */
-  src: url(../fonts/Montserrat/Montserrat-SemiBold.ttf); /* Путь к файлу со шрифтом */
+  src: url(/fonts/Montserrat/Montserrat-SemiBold.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
   font-family: Montserrat-Bold; /* Гарнитура шрифта */
-  src: url(../fonts/Montserrat/Montserrat-Bold.ttf); /* Путь к файлу со шрифтом */
+  src: url(/fonts/Montserrat/Montserrat-Bold.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
   font-family: Montserrat-Black; /* Гарнитура шрифта */
-  src: url(../fonts/Montserrat/Montserrat-Black.ttf); /* Путь к файлу со шрифтом */
+  src: url(/fonts/Montserrat/Montserrat-Black.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
   font-family: Montserrat-Medium; /* Гарнитура шрифта */
-  src: url(../fonts/Montserrat/Montserrat-Medium.ttf); /* Путь к файлу со шрифтом */
+  src: url(/fonts/Montserrat/Montserrat-Medium.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
   font-family: Montserrat-ExtraLight; /* Гарнитура шрифта */
-  src: url(../fonts/Montserrat/Montserrat-ExtraLight.ttf); /* Путь к файлу со шрифтом */
+  src: url(/fonts/Montserrat/Montserrat-ExtraLight.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
   font-family: MontserratAlternates-Black; /* Гарнитура шрифта */
-  src: url(../fonts/Montserrat_Alternates/MontserratAlternates-Black.ttf); /* Путь к файлу со шрифтом */
+  src: url(/fonts/Montserrat_Alternates/MontserratAlternates-Black.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
   font-family: Roboto-Medium; /* Гарнитура шрифта */
-  src: url(../fonts/Roboto/Roboto-Medium.ttf); /* Путь к файлу со шрифтом */
+  src: url(/fonts/Roboto/Roboto-Medium.ttf); /* Путь к файлу со шрифтом */
 }
 
 .container{
